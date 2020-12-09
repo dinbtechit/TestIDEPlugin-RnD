@@ -4,7 +4,7 @@
     Inspired by Open Test Framework
 
 ## 🎯 Goals
-- Be able to test websites using selenium or puppeteer (kolin) or playwright (Java).
+- Build an intellij Plugin to Record/Play/Manage test cases for testing websites
 
 # ⚗🧪 R&D 
 1. Understand Intellij JetBrain Plugin Development: 
@@ -12,10 +12,12 @@
     - understand how to create/modify UI in Intellij
     - Code generation in Intellij
     - Learn about Intellij's pico container
-2.  Understand how Jasmine and selenium works:
+2.  What is the best framework? selenium, puppeteer (kolin or Nodejs) or playwright (Java).
+    > It has to be Java or Kolin related. Inorder to integrade with Intellij. Too bad should we chosen to build a VScode extention instead?
+3.  Understand how Jasmine and selenium works:
     - Read about Jasmine and Selenium.
     - Alternately we can use Open Test. But its yml based. So debugging options are virtually impossible.
-3. Build E2E architecture for Test IDE.  
+4. Build E2E architecture for Test IDE.  
     - Client (Browser) ➡ Server (Intellij -> Lightweight HTTP server)
     - https://localhost:90909090909/api/events/{{click}}
     - https://localhost:90909090909/api/events/{{keystrokes}}

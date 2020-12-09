@@ -4,7 +4,7 @@
     Inspired by Open Test Framework
 
 ## 🎯 Goals
-- Be able to test websites we could use selenium or puppeteer (kolin) or playwright (Java).
+- Be able to test websites using selenium or puppeteer (kolin) or playwright (Java).
 
 # ⚗🧪 R&D 
 1. Understand Intellij JetBrain Plugin Development: 

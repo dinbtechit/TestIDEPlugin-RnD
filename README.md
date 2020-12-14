@@ -13,7 +13,7 @@
     - Code generation in Intellij
     - Learn about Intellij's pico container
 2.  What is the best framework? selenium, puppeteer (kolin or Nodejs) or playwright (Java).
-    > It has to be Java or Kolin related. Inorder to integrate with Intellij. Too bad should we chosen a VScode extention instead?
+    > It has to be Java or Kolin related. Inorder to integrate with Intellij. Too bad we should have chosen a VScode extention instead?
 3.  Understand how Jasmine and selenium works:
     - Read about Jasmine and Selenium.
     - Alternately we can use Open Test. But its yml based. So debugging options are virtually impossible.
